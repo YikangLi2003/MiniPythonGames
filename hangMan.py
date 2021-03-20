@@ -50,9 +50,9 @@ HANGMAN_PICS = ['''
          ===''']
 
 words = {
-	'.adj':'big small good bad happy beautiful'.split(),
-	'.n':'cat dog'.split(),
-	'.v':'eat run walk smellm look hear say'.split()
+	'.adj':'big small good bad happy beautiful huge'.split(),
+	'.n':'cat dog shit dick penis sperm poop stool'.split(),
+	'.v':'eat run walk smellm look hear say fuck ejaculate'.split()
 }
 
 def getRandomWord(wordDict):
